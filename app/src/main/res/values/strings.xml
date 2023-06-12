@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Face Detector</string>
+<string name="button_switch_camera">switch</string>
+<string name="button_load_image">load</string>
+</resources>
